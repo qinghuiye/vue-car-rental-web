@@ -1,0 +1,27 @@
+i[class^=icon]{//获取所有class开头为icon的i标签
+    display: inline-block;
+    width: 44px;
+    height: 44px;
+    border-radius: 100px;
+    background-color: $color-main;
+    background-repeat: no-repeat;
+  }
+  .icon-help{
+      background-image: url(~@/assets/images/icon/icon-help.png);
+  }
+  .icon-serch{
+      background-image: url(~@/assets/images/icon/icon-serch.png);
+  }
+  .icon-dinwei{
+      background-image: url(~@/assets/images/icon/icon-dinwei.png);
+  }
+  .icon-user{
+      background-image: url(~@/assets/images/icon/icon-user.png);
+  }
+
+  
+.icon-user-link-1 { background-image: url(~@/assets/images/icon/icon-router-link-001.png); }
+.icon-user-link-2 { background-image: url(~@/assets/images/icon/icon-router-link-002.png); }
+.icon-user-link-3 { background-image: url(~@/assets/images/icon/icon-router-link-003.png); }
+.icon-user-link-4 { background-image: url(~@/assets/images/icon/icon-router-link-004.png); }
+.icon-user-link-5 { background-image: url(~@/assets/images/icon/icon-router-link-005.png); }
