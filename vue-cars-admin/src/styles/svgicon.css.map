@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,WADO,CACP,GAAG,CAAC;EACA,SAAS,EAAE,IAAI;EACf,YAAY,EAAE,IAAI;CACrB;;AAEL,AAAA,cAAc,CAAC;EAAE,SAAS,EAAE,IAAI;CAAI",
+    "sources": [
+        "svgicon.scss"
+    ],
+    "names": [],
+    "file": "svgicon.css"
+}
